@@ -22,3 +22,7 @@ At TD Ameritrade, as a Sr. Manager/Sr. Cloud Application Architect in Cloud Arch
 -	Sun Certified Enterprise Architect (SCEA)
 -	Sun Certified Web Component Developer (SCWCD)
 -	Sun Certified Java Programmer (SCJP)
+
+## Contact
+Email: Mike.Qin@gmail.com
+LinkedIn: https://www.linkedin.com/in/mike-qin
