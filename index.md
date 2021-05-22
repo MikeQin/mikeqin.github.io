@@ -1,5 +1,3 @@
-# Welcome to Michael Qin's Personal Page
-
 ## About Me
 
 Michael is a technology leader at Charles Schwab as a Director of Technology (Principal) in Wealth Management Technology (WMT). He is leading teams and providing technical leadership in application architecture, app modernization, cloud native development, data center migration, site reliability engineering (SRE), operational excellence, CI/CD pipeline, automation, quality gate process, blueprints, platform health, monitoring & alerting, architecture and design, and event-driven microservices. 
