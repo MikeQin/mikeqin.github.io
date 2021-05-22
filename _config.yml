@@ -1,6 +1,9 @@
 theme: jekyll-theme-hacker
 title: Michael Qin
 description: Director of Technology at Charles Schwab. Certified Architect and Egineer on AWS and Google Cloud.
+author:
+  name: Michael Qin
+  email: mike.qin@gmail.com
 show_downloads: false
 github:
   is_project_page: false
