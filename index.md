@@ -24,5 +24,5 @@ At TD Ameritrade, as a Sr. Manager/Sr. Cloud Application Architect in Cloud Arch
 -	Sun Certified Java Programmer (SCJP)
 
 ## Contact
-Email: Mike.Qin@gmail.com
-LinkedIn: https://www.linkedin.com/in/mike-qin
+- Email: Mike.Qin@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mike-qin
