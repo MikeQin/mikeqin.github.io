@@ -14,3 +14,5 @@ buttons:
       tar_title: Title
       tar_hide: true
       github_hide: true # hides "View on Github"
+
+theme: jekyll-theme-cayman
